@@ -2,6 +2,6 @@
 
 HTMLEditorKit = 1
 pagecounter = 2
-foo_bar = 3
+foo__bar = 3
 strlen = 4
 floatToRawIntBits = 5

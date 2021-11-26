@@ -2,6 +2,8 @@
 
 Num1 = 1.5
 numTewo = 6.3
+pagecounter = 4
+HTMLEditorKit = 5
 
 # Add two numbers
 sum = Num1 + numTewo

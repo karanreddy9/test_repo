@@ -14,3 +14,5 @@ FOO_bar = 10
 ArrayOutOfBoundsException = 11
 FORTY_TWO = 12
 name = 13
+consecutive = 14
+hello_world = 15

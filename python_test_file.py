@@ -1,12 +1,7 @@
 # This program adds two numbers
 
-Num1 = 1.5
-numTewo = 6.3
-pagecounter = 4
-HTMLEditorKit = 5
-
-# Add two numbers
-sum = Num1 + numTewo
-
-# Display the sum
-print('The sum of {0} and {1} is {2}'.format(Num1, numTewo, sum))
+HTMLEditorKit = 1
+pagecounter = 2
+foo_bar = 3
+strlen = 4
+floatToRawIntBits = 5
